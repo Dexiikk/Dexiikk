@@ -3,7 +3,7 @@
 
 
 ```sh-session
-pip install bitches
+only keys needed are CRTL, C and V
 ```
 ```python
 working on some shit
