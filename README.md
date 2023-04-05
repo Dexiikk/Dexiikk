@@ -5,12 +5,8 @@
 pip install bitches
 ```
 ```python
-print(f'Follow {DXVVAY} on Github')
+working on some shit
 ```
-```python
-working on a flipper fw
-```
-Call me Dex 
 
 📂・**Latest soon coming project [GnGr grabber]**
 
