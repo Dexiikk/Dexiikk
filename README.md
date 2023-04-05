@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/watch?v=zL19uMsnpSU&t" target="_blank"> <img src="[https://cdn.discordapp.com/attachments/1009528244132921426/1093087592888664115/616b37ef8d9a6.png]" alt="Dexiik Github"/></a>
+<a href="https://www.youtube.com/watch?v=zL19uMsnpSU&t" target="_blank"> <img src="[(https://cdn.discordapp.com/attachments/1009528244132921426/1093087592888664115/616b37ef8d9a6.png)]" alt="Dexiik Github"/></a>
 
 
 ```sh-session
