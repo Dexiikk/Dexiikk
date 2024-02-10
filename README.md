@@ -4,8 +4,8 @@
 <h3 align="center">I'm your average 17 year old programmer & nerd. I spend time at home, programming or playing video games instead of having fun outside. Hope you enjoy my GitHub! If you do, drop a follow!</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=ff0000&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/dexikk" alt="Total Stars" ></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ff7700&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/dexikk" alt="Total Forks"></a> </p>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=ff0000&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/dexiikk" alt="Total Stars" ></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ff7700&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/dexiikk" alt="Total Forks"></a> </p>
 
 ---
 
