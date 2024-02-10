@@ -1,9 +1,11 @@
-![cs]([https://user-images.githubusercontent.com/129897824/230024933-eb316a8a-6c43-466e-9540-b5035107fb48.png](https://d.furaffinity.net/art/drakemono/1634252962/1634252962.drakemono_banner_blink.gif))
+![cs]([[https://user-images.githubusercontent.com/129897824/230024933-eb316a8a-6c43-466e-9540-b5035107fb48.png](https://d.furaffinity.net/art/drakemono/1634252962/1634252962.drakemono_banner_blink.gif)](https://i.pinimg.com/736x/92/c2/d1/92c2d1fcf9ab8f13b36bc38954229e65.jpg))
 
 
-
+```python
+pip install bitches
+```
 ```sh-session
-only keys needed are CRTL, C and V
+only keys I need are CRTL, C and V
 ```
 ```python
 Wannabe programmer
