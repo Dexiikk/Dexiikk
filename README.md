@@ -1,4 +1,4 @@
-![header](https://github.com/Dexiikk/Dexiikk/assets/129897824/9310a83b-8a47-488a-b76e-fe4b18a74740)
+![header](https://github.com/user-attachments/assets/4878bbe4-1fc8-459a-ad2c-9300477215ca)
 
 <h1 align="center">Hey 👋, I'm Dexv!</h1>
 <h3 align="center">I'm your average 17 year old programmer & nerd. I spend time at home, programming or playing video games instead of having fun outside. Hope you enjoy my GitHub! If you do, drop a follow!</h3>
@@ -41,8 +41,5 @@ Wannabe programmer
 ```sh-session
 only keys I need are CRTL, C and V
 ```
-
-
-![footer](https://github.com/Dexiikk/Dexiikk/assets/129897824/09fdca2d-eb01-4cd8-a50d-a32cc726fa07)
 
 
