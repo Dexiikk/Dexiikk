@@ -1,4 +1,4 @@
-![header](https://github.com/user-attachments/assets/4878bbe4-1fc8-459a-ad2c-9300477215ca)
+![banner](https://github.com/user-attachments/assets/4878bbe4-1fc8-459a-ad2c-9300477215ca)
 
 <h1 align="center">Hey 👋, I'm Dexv!</h1>
 <h3 align="center">I'm your average 17 year old programmer & nerd. I spend time at home, programming or playing video games instead of having fun outside. Hope you enjoy my GitHub! If you do, drop a follow!</h3>
