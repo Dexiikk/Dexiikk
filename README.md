@@ -1,4 +1,4 @@
-![4Efp](https://github.com/user-attachments/assets/4ddc3a07-90e0-4122-bcb8-9a573ff7fdd3)
+![banner](https://github.com/user-attachments/assets/ce63011e-a716-4ad9-a96d-28de8ed24cba)
 
 <h1 align="center">Hey 👋, I'm Dexv!</h1>
 <h3 align="center">I'm your average 17 year old programmer & nerd. I spend time at home, programming or playing video games instead of having fun outside. Hope you enjoy my GitHub! If you do, drop a follow!</h3>
